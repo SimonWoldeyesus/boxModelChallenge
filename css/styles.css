@@ -8,6 +8,8 @@ Margin: 10px;
 border: blue;
 display: block;
 justify: center;
+
+
 }
 
 .box1{
@@ -23,12 +25,10 @@ justify: center;
     background-color: aqua;
     padding: 20px;
     margin:20px;
-
 }
 .box3{
     border: 3px solid green;
     background-color:rgb(194, 137, 137);
     padding: 20px;
     margin: 20px;
-
 }
