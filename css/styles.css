@@ -7,8 +7,8 @@ Padding: 15px;
 Margin: 10px;
 border: blue;
 display: block;
-justify: center;
-
+justify-content:center; 
+align-items: center;     
 
 }
 
